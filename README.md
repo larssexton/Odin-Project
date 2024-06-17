@@ -1,0 +1,1 @@
+we are tinkering around with HTML and figugring out the basics with programming and finding our way around basic writing. 
